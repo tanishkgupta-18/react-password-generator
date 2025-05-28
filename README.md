@@ -12,7 +12,7 @@ A modern password generator built with **React**, styled using **Tailwind CSS**,
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png) <!-- Add an image file named screenshot.png in the root if you want this -->
+![Screenshot](./screenshot.png) 
 
 ## 🛠️ Tech Stack
 
